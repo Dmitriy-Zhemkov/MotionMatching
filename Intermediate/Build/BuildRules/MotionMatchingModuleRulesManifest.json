@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\NUC X15\\Documents\\Unreal Projects\\MotionMatchingV0_1\\Source\\MotionMatching\\MotionMatching.Build.cs",
+		"C:\\Users\\NUC X15\\Documents\\Unreal Projects\\MotionMatchingV0_1\\Source\\MotionMatching.Target.cs",
+		"C:\\Users\\NUC X15\\Documents\\Unreal Projects\\MotionMatchingV0_1\\Source\\MotionMatchingEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

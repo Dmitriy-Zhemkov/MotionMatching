@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MotionMatching",
+			"Path": "..\\Source\\MotionMatching.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MotionMatchingEditor",
+			"Path": "..\\Source\\MotionMatchingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
