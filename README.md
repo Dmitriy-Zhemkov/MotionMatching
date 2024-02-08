@@ -35,3 +35,7 @@
 			"Enabled": true   
 		}   
 	]  
+
+
+https://github.com/Dmitriy-Zhemkov/MotionMatching/assets/45768725/787b25bc-1b80-4680-84c9-b14f2b911911
+
